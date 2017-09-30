@@ -1,0 +1,5 @@
+Probabilistic Linked Lists (Skip Lists):
+
+Class implements the comparable interface and is designed to include  objects of any type (generics).
+This data structure allows for logarithmic runtime as opposed to a regular linked list which is linear.
+
