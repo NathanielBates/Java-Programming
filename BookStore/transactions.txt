@@ -1,0 +1,18 @@
+170921112829, 22222,  "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 09/21/17 11:28:29 AM EDT
+170921112829, 99999,  "Rogue Lawyer - John Grisham", 15.95, 2, 0.0, 31.90, 09/21/17 11:28:29 AM EDT
+170921112829, 11234,  "Tricky Twenty-Two - Janet Evanovich", 12.95, 1, 0.0, 12.95, 09/21/17 11:28:29 AM EDT
+170921113222, 45376,  "The Apprentice - Tess Gerritsen", 9.99, 4, 0.0, 39.96, 09/21/17 11:32:22 AM EDT
+170921113222, 19342,  "The Surgeon - Tess Gerritsen", 10.99, 1, 0.0, 10.99, 09/21/17 11:32:22 AM EDT
+170921113222, 33214,  "Against All Odds - Danielle Steele", 18.99, 1, 0.0, 18.99, 09/21/17 11:32:22 AM EDT
+170921113222, 66666,  "Refusal - Felix Francis", 7.99, 8, 0.1, 57.53, 09/21/17 11:32:22 AM EDT
+170921113421, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 09/21/17 11:34:21 AM EDT
+170921113421, 12123,  "X - Sue Grafton", 9.99, 2, 0.0, 19.98, 09/21/17 11:34:21 AM EDT
+170921113528, 69999,  "Cross the Line - James Patterson", 9.50, 1, 0.0, 9.50, 09/21/17 11:35:28 AM EDT
+170921113704, 19342,  "The Surgeon - Tess Gerritsen", 10.99, 1, 0.0, 10.99, 09/21/17 11:37:04 AM EDT
+170921113704, 44556,  "The Fix - David Baldacci", 12.99, 1, 0.0, 12.99, 09/21/17 11:37:04 AM EDT
+170921114044, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 10, 0.15, 76.42, 09/21/17 11:40:44 AM EDT
+170921114044, 88888,  "Terminal City - Linda Fairstein", 10.95, 5, 0.1, 49.27, 09/21/17 11:40:44 AM EDT
+170921114044, 69843,  "CyberStorm - Matthew Mather", 10.50, 1, 0.0, 10.50, 09/21/17 11:40:44 AM EDT
+170921114044, 23411,  "Chaos - Patricia Cornwell", 10.75, 12, 0.15, 109.65, 09/21/17 11:40:44 AM EDT
+170921114044, 33214,  "Against All Odds - Danielle Steele", 18.99, 20, 0.2, 303.84, 09/21/17 11:40:44 AM EDT
+170921114210, 19342,  "The Surgeon - Tess Gerritsen", 10.99, 1, 0.0, 10.99, 09/21/17 11:42:10 AM EDT
